@@ -33,9 +33,9 @@ Headings type is a custom font called Intro. It is already included into the pag
 For gray images, use placeholders (you can use any from [https://placeholder.com](https://placeholder.com)).
 
 <details>
-    <summary>Click here to see an example</summary>
+  <summary>Click here to see an example</summary>
     
-    ![](https://via.placeholder.com/800x600)
+  ![](https://via.placeholder.com/800x600)
 
 </details>
 
@@ -47,13 +47,23 @@ It's up to you.
 
 #### Mobile design
 
-![mobile](https://s3-us-west-2.amazonaws.com/s.cdpn.io/67030/19_Yum-Yum_home_mobile.jpg)
+<details>
+  <summary>Click here to see the details </summary>
+  
+  ![mobile](https://s3-us-west-2.amazonaws.com/s.cdpn.io/67030/19_Yum-Yum_home_mobile.jpg)
+
+</details>
 
 <hr>
 
 #### Desktop design
 
+<details>
+  <summary>Click here to see the details </summary>
+
 ![desktop](https://s3-us-west-2.amazonaws.com/s.cdpn.io/67030/05_Yum-Yum_home.jpg?v2)
+
+</details>
 
 <br>
 
