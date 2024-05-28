@@ -1,1 +1,49 @@
-*, :before, :after {box-sizing:border-box;}
+*, 
+:before, 
+:after {
+    box-sizing:border-box;
+}
+
+:root{
+    --primary: #FA7343;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Intro', sans-serif;
+    font-weight: 900;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.title{
+    color: var(--primary);
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.description{
+    color: #9ea0a5;
+}
+
+.nav-mobile img{
+    width: 32px;
+}
+
+.desktop-menu{
+    display:none;
+}
+
+@media (min-width:768px){
+    .desktop-menu{
+        display:block;
+    }
+    .nav-mobile{
+        display:none;
+    }
+}
